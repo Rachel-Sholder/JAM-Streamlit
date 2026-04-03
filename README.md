@@ -41,5 +41,3 @@ This tool is designed for:
 ⚠️ This is a **research demonstration tool**, not a predictive or operational model.
 
 ---
-
-## Repository Structure
