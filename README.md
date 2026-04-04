@@ -44,8 +44,8 @@ This tool is designed for:
 
 ## Repository Structure
 
-jam-app.py: Streamlit application
-requirements.txt: Python dependencies
+- jam-app.py: Streamlit application
+- requirements.txt: Python dependencies 
 
 ---
 
