@@ -63,7 +63,7 @@ Doctoral research bridging:
 
 If you use this work, please cite:
 
-> Sholder, R. (2026). *Epidemics in Orbit: Modeling Space Debris Dynamics to Alleviate the Orbital Traffic Jam.*
+> R. Sholder, “Epidemics in Orbit: Modeling Space Debris Dynamics to Alleviate the Orbital Traffic Jam,” IEEE Aerospace Conference, 2026.
 
 ---
 
