@@ -1,4 +1,4 @@
-# 🛰️ JAM: Junk Accumulation Model Streamlit Tool
+# JAM: Junk Accumulation Model Streamlit Tool
 
 An interactive Streamlit application for exploring space debris dynamics using an epidemiological SIR-style framework.
 
@@ -6,7 +6,7 @@ An interactive Streamlit application for exploring space debris dynamics using a
 
 ---
 
-## Overview
+## 🛰️ Overview
 
 The Junk Accumulation Model (JAM) applies compartmental modeling concepts from epidemiology to orbital debris. Objects are grouped into:
 
@@ -18,7 +18,7 @@ The model captures nonlinear, self-reinforcing debris growth dynamics and enable
 
 ---
 
-## Features
+## 🚀 Features
 
 - Interactive sliders for model parameters:
   - Launch rate (Λ)
@@ -31,7 +31,7 @@ The model captures nonlinear, self-reinforcing debris growth dynamics and enable
 
 ---
 
-## Purpose
+## 🧠 Purpose
 
 This tool is designed for:
 - Conceptual exploration of orbital debris dynamics  
@@ -42,7 +42,7 @@ This tool is designed for:
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 - jam-app.py: Streamlit application
 - requirements.txt: Python dependencies 
