@@ -1,4 +1,4 @@
-# 🛰️ JAM: Junk Accumulation Model
+# 🛰️ JAM: Junk Accumulation Model Streamlit Tool
 
 An interactive Streamlit application for exploring space debris dynamics using an epidemiological SIR-style framework.
 
@@ -38,7 +38,7 @@ This tool is designed for:
 - Demonstrating threshold and nonlinear behavior  
 - Supporting research on space traffic management and debris mitigation  
 
-⚠️ This is a **research demonstration tool**, not a predictive or operational model.
+⚠️ This repository is part of academic research and is intended for exploratory and educational purposes.
 
 ---
 
