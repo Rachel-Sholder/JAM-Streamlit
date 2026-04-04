@@ -52,7 +52,8 @@ This tool is designed for:
 ## 👩‍🚀 Author
 
 Rachel Sholder  
-Johns Hopkins University Applied Physics Laboratory (JHU/APL)  
+Johns Hopkins University Applied Physics Laboratory (JHU/APL) 
+JHU Doctor of Engineeering
 
 Doctoral research bridging:
 **epidemiology × orbital debris dynamics**
