@@ -53,6 +53,7 @@ This tool is designed for:
 
 Rachel Sholder  
 Johns Hopkins University Applied Physics Laboratory (JHU/APL) 
+
 JHU Doctor of Engineeering
 
 Doctoral research bridging:
