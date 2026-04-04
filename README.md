@@ -41,3 +41,29 @@ This tool is designed for:
 ⚠️ This is a **research demonstration tool**, not a predictive or operational model.
 
 ---
+
+## Repository Structure
+
+jam-app.py: Streamlit application
+requirements.txt: Python dependencies
+
+---
+
+## 👩‍🚀 Author
+
+Rachel Sholder  
+Johns Hopkins University Applied Physics Laboratory (JHU/APL)  
+
+Doctoral research bridging:
+**epidemiology × orbital debris dynamics**
+
+---
+
+## 📌 Citation
+
+If you use this work, please cite:
+
+> Sholder, R. (2026). *Epidemics in Orbit: Modeling Space Debris Dynamics to Alleviate the Orbital Traffic Jam.*
+
+---
+
