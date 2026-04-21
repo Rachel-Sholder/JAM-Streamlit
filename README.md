@@ -57,6 +57,8 @@ Johns Hopkins University Applied Physics Laboratory (JHU/APL)
 Doctoral research bridging:
 **epidemiology × orbital debris dynamics**
 
+🔴 **TEDx Talk "Epidemics in Orbit: How Space Debris is Going Viral Here:** (https://www.youtube.com/watch?v=RV6VHMmfUs8)
+
 ---
 
 ## 📌 Citation
